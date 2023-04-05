@@ -1,0 +1,31 @@
+﻿.button{
+    position:absolute;
+    top:25%;
+    left:3%;
+}
+
+.Mostar{
+    margin-left:15px;
+    margin-right:15px;
+}
+.Videos {
+    background: red;
+    height: 45%;
+    width:14%;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+}
+
+img{
+    border:2px solid white;
+    cursor:pointer;
+}
+
+.CargaVideo {
+    height: 45%;
+    width: 25%;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
